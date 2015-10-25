@@ -1,0 +1,11 @@
+/* user styles */
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+div.thumbnail {
+  width: 300px;
+  hight: 400px;
+}

@@ -1,0 +1,19 @@
+/* user styles */
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+div.thumbnail {
+  width: 300px;
+  hight: 400px;
+}
+
+.btn.react-dropdown .caret {
+  margin-left: 6px;
+  border-top: 6px dashed;
+  border-top: 6px solid\9;
+  border-right: 6px solid transparent;
+  border-left: 6px solid transparent;
+}
